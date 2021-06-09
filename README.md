@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there.
+### Hi there.
 ##  I'm Tuna, and I've been in the software universe since 2014.
 I'm using GitHub for sharing my projects with... No. Just kidding. I just use it because I'm bored.
 
